@@ -23,7 +23,7 @@
 <p dir="rtl">
 
 * إنشاء حساب ب github 
-    * اسم حساب الطالب  في github (name - id ) must
+    * اسم حساب الطالب  في github (Mohammad Ashkanani ) must
   </p>
 <p dir="rtl">
 
